@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<ItemGroup>
+		<None Include="..\..\TestControl2.uproject" />
+		<Filter Include="Source">
+			<UniqueIdentifier>{96E5DF61-927E-4854-B281-71A7C34DBFF9}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\TestControl2.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<None Include="..\..\Source\TestControl2Editor.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<Filter Include="Config">
+			<UniqueIdentifier>{D98FD033-073F-4480-96E9-798DBEB1C3DB}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Config\DefaultEditor.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEngine.ini">
+			<Filter>Config</Filter>
+		</None >
+		<Filter Include="Source\TestControl2">
+			<UniqueIdentifier>{B5FCC875-2508-481D-A431-12F698809A7F}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\TestControl2\TestControl2.Build.cs">
+			<Filter>Source\TestControl2</Filter>
+		</None >
+		<ClCompile Include="..\..\Source\TestControl2\TestControl2.cpp">
+			<Filter>Source\TestControl2</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\TestControl2\TestControl2.h">
+			<Filter>Source\TestControl2</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\TestControl2\TestControl2GameMode.cpp">
+			<Filter>Source\TestControl2</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\TestControl2\TestControl2GameMode.h">
+			<Filter>Source\TestControl2</Filter>
+		</ClInclude >
+		<Filter Include="Source\TestControl2\Resources">
+			<UniqueIdentifier>{443E898E-81F4-4E2E-94C3-A59CDE5D543D}</UniqueIdentifier>
+		</Filter>
+		<Filter Include="Source\TestControl2\Resources\Windows">
+			<UniqueIdentifier>{3D335373-6110-4863-A82A-05685A5C3B5E}</UniqueIdentifier>
+		</Filter>
+		<ResourceCompile Include="..\..\Source\TestControl2\Resources\Windows\TestControl2.rc">
+			<Filter>Source\TestControl2\Resources\Windows</Filter>
+		</ResourceCompile >
+	</ItemGroup>
+</Project>
