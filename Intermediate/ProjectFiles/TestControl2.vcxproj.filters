@@ -4,7 +4,7 @@
 	<ItemGroup>
 		<None Include="..\..\TestControl2.uproject" />
 		<Filter Include="Source">
-			<UniqueIdentifier>{96E5DF61-927E-4854-B281-71A7C34DBFF9}</UniqueIdentifier>
+			<UniqueIdentifier>{832F2DEB-9C42-491C-8627-F3F334E6641D}</UniqueIdentifier>
 		</Filter>
 		<None Include="..\..\Source\TestControl2.Target.cs">
 			<Filter>Source</Filter>
@@ -13,7 +13,7 @@
 			<Filter>Source</Filter>
 		</None >
 		<Filter Include="Config">
-			<UniqueIdentifier>{D98FD033-073F-4480-96E9-798DBEB1C3DB}</UniqueIdentifier>
+			<UniqueIdentifier>{D7B40009-8302-4179-9AFC-A5991F9D7892}</UniqueIdentifier>
 		</Filter>
 		<None Include="..\..\Config\DefaultEditor.ini">
 			<Filter>Config</Filter>
@@ -22,7 +22,7 @@
 			<Filter>Config</Filter>
 		</None >
 		<Filter Include="Source\TestControl2">
-			<UniqueIdentifier>{B5FCC875-2508-481D-A431-12F698809A7F}</UniqueIdentifier>
+			<UniqueIdentifier>{0F2CC088-9981-4DA5-BBAE-9879808FB226}</UniqueIdentifier>
 		</Filter>
 		<None Include="..\..\Source\TestControl2\TestControl2.Build.cs">
 			<Filter>Source\TestControl2</Filter>
@@ -40,10 +40,10 @@
 			<Filter>Source\TestControl2</Filter>
 		</ClInclude >
 		<Filter Include="Source\TestControl2\Resources">
-			<UniqueIdentifier>{443E898E-81F4-4E2E-94C3-A59CDE5D543D}</UniqueIdentifier>
+			<UniqueIdentifier>{836122E0-9C71-4576-A257-1B7192506080}</UniqueIdentifier>
 		</Filter>
 		<Filter Include="Source\TestControl2\Resources\Windows">
-			<UniqueIdentifier>{3D335373-6110-4863-A82A-05685A5C3B5E}</UniqueIdentifier>
+			<UniqueIdentifier>{2842E0B1-581F-4943-B8F4-0F057C9F386B}</UniqueIdentifier>
 		</Filter>
 		<ResourceCompile Include="..\..\Source\TestControl2\Resources\Windows\TestControl2.rc">
 			<Filter>Source\TestControl2\Resources\Windows</Filter>
